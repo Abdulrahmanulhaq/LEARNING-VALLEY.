@@ -802,6 +802,9 @@ h1, h2, h3, h4, h5,
       bottom: 0;
       background: rgba(0, 0, 0, 0.3);
       z-index: 1; }
+  .text-cursive h5.text-red{
+    font-size: 1px;
+  }
   .site-section-cover.inner-page,
   .site-section-cover.inner-page .container > .row {
     height: auto;
@@ -884,7 +887,8 @@ h1, h2, h3, h4, h5,
   margin-top: -10rem; }
   @media (max-width: 991.98px) {
     .block-img-video-1-wrap .block-img-video-1 {
-      margin-top: -6rem; } }
+      margin-top: -6rem; }
+    }
 
 .block-img-video-1 > a {
   display: block;
